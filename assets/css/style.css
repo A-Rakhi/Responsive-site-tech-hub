@@ -1,0 +1,103 @@
+nav {
+	background-color: #000;
+	border-bottom: 3px solid #007cff;
+}
+#home{
+	background-image: url(../img/pic.jpg);
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.home-content{
+	background-color: #201f1fe3;
+    padding-top: 150px;
+    padding-bottom: 80px;
+ }
+
+.fas.fa-check.text-primary.bg-light.mt-2.ml-3.flex-icon {
+	font-size: 30px;
+	padding: 5px;
+	border-radius: 3px;
+}
+
+#explore .title{
+	font-size: 50px;
+
+}
+.explore-One.text-center.text-white{
+    padding: 50px 0px;
+    background-color: #1e1d1df2;
+}
+.explore-Two {
+	padding: 50px 0px;
+	background-color: #fff;
+}
+.explore-img{
+	border-radius: 5px;
+}
+.fas.fa-check.text-light.bg-dark.mt-2.ml-3.flex-icon1 {
+	font-size: 22px;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.create-One.text-center.bg-primary.text-white{
+    padding: 50px 0px;
+}
+.create-Two {
+	padding: 50px 0px;
+	background-color: #3e3d3d;
+	color: #fff;
+}
+
+.fas.fa-check.text-primary.bg-light.mt-2.ml-3.flex-icon2 {
+	font-size: 22px;
+	padding: 5px;
+	border-radius: 3px;
+}
+.create-img{
+	border-radius: 5px;
+}
+.share-One.text-center.bg-primary.text-white{
+    padding: 50px 0px;
+}
+.share-Two {
+	padding: 50px 0px;
+	background-color: #fff;
+}
+.share-img{
+	border-radius: 5px;
+}
+.fas.fa-check.text-light.bg-dark.mt-2.ml-3.flex-icon3 {
+	font-size: 22px;
+	padding: 5px;
+	border-radius: 5px;
+}
+#techHub {
+	padding: 50px 0;
+}
+
+.modal-header{
+	height: 60px;
+}
+.modal-header button.btn.text-light {
+	font-size: 25px;
+	padding-top: 0px;
+	font-weight: bold;
+	margin-top: -10px;
+}
+.modal-body.m{
+	text-align: left;
+	float: left;
+
+}
+#share .flex1{
+	color: #4f4e4e !important;
+}
+.footer1 {
+	font-size: 15px;
+}
+.footer2 {
+	font-size: 15px;
+}
